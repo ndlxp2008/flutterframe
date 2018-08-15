@@ -1,8 +1,14 @@
 # flutterframe
 
-A new Flutter application.
+快速开发flutter应用框架,持续更新:
+18-8-15 创建应用
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+https://flutterchina.club
+多看看文档,上面网址是中文文档,特别是要看针对性的文档
+Flutter for Web开发者
+Flutter for Android 开发者
+Flutter for iOS 开发者 新
+Flutter for React Native 开发
+之前了解哪种就从哪种开始看,能更快的上手
