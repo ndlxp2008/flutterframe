@@ -1,7 +1,7 @@
 # flutterframe
 
-快速开发flutter应用框架,持续更新:
-18-8-15 创建应用
+快速开发扑应用框架，持续更新:   
+18-8-15创建应用  
 
 ## Getting Started
 
